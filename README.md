@@ -1,4 +1,4 @@
-# Terraform Day 5: Enabling TF_LOG and Working with Sensitive Information
+## Enabling TF_LOG and Working with Sensitive Information
 
 ## Overview
 
